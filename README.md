@@ -23,5 +23,5 @@ A multi-agent system designed to help users plan one-day tours. This system prov
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/tour-planner.git
+git clone https://github.com/atharvarya12/tour-planner.git
 cd tour-planner
